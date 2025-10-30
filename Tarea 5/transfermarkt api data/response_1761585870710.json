@@ -1,0 +1,52 @@
+{
+  "updatedAt": "2025-10-27T11:17:01.706883",
+  "query": "cf monterrey",
+  "pageNumber": 1,
+  "lastPageNumber": 1,
+  "results": [
+    {
+      "id": "2407",
+      "url": "/cf-monterrey/startseite/verein/2407",
+      "name": "CF Monterrey",
+      "country": "Mexico",
+      "squad": 25,
+      "marketValue": 70300000
+    },
+    {
+      "id": "110461",
+      "url": "/cf-monterrey-u23/startseite/verein/110461",
+      "name": "CF Monterrey U21",
+      "country": "Mexico",
+      "squad": 28,
+      "marketValue": 100000
+    },
+    {
+      "id": "18498",
+      "url": "/cf-monterrey-u20/startseite/verein/18498",
+      "name": "CF Monterrey U19",
+      "country": "Mexico",
+      "squad": 30
+    },
+    {
+      "id": "81587",
+      "url": "/cf-monterrey-jugend/startseite/verein/81587",
+      "name": "CF Monterrey Jugend",
+      "country": "Mexico",
+      "squad": 8
+    },
+    {
+      "id": "104463",
+      "url": "/cf-monterrey-u17/startseite/verein/104463",
+      "name": "CF Monterrey U17",
+      "country": "Mexico",
+      "squad": 7
+    },
+    {
+      "id": "108323",
+      "url": "/cf-monterrey-ii/startseite/verein/108323",
+      "name": "CF Monterrey II",
+      "country": "Mexico",
+      "squad": 0
+    }
+  ]
+}
