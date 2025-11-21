@@ -11,3 +11,4 @@ Este es el repositorio para la materia Apredizaje automático (AA) de la MCD.
 - [Tarea 6](/Tarea%206/T6_OAGG.pdf) - Pronóstico
 - [Tarea 7](/Tarea%207/T7_OAGG.pdf) - Metodología
 - [Tarea 89](/Tarea%2089/T89_OAGG.pdf) - Artículo
+- [PIA](/AA_PIA.pdf) - Artículo
